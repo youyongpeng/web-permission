@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebPermissionApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(WebPermissionApplication.class, args);
 	}
 }
